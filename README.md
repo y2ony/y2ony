@@ -1,4 +1,4 @@
-## y2ony 🤩
+## y2ony 😑
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=y2ony" />
